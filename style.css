@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: red;
+    color: white;
+}
+p{
+    background-color: green;
+}
+h1{
+    background-color: rgb(61, 155, 61);
+margin: 10px 0px;
+}
+ul{
+    margin: 10px 0px;
+    background-color: grey;
+}
